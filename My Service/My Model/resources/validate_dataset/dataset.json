@@ -1,0 +1,8 @@
+{
+  "name": "Toshe",
+  "weather": {
+    "rain forecast": 15,
+    "temperature": "cold",
+    "storm alert": true
+  }
+}
